@@ -1,0 +1,6 @@
+1;Spageti;15.20
+2;Pizza_Margaritta;20.50
+3;Frytki;5.20
+4;Ziemniaki;7.80
+5;Pierogi_Ruskie;12.30
+6;Lazania;12;50
